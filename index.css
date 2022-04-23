@@ -1,0 +1,159 @@
+* {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+#base {
+    width: 100%;
+    height: auto;
+    background-color: black;
+    margin-top: 70px;
+
+}
+.part2{
+    background-color: black;
+    width: 100%;
+}
+#upper {
+    background-color: white;
+    width: 100%;
+    height: auto;
+}
+
+#upper>div>img {
+    width: 100%;
+}
+
+#photo {
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    grid-template-rows: repeat(1, 40%);
+    gap: 1px;
+}
+
+#middle {
+    background-color: black;
+    height: auto;
+    width: 100%;
+
+    padding-top: 5%;
+}
+
+#middle>#img {
+    padding-left: 10%;
+    padding-bottom: 2%;
+}
+
+.container1 {
+    width: 100%;
+    height: auto;
+    padding: 1%;
+    padding-left: 10%;
+    gap: 3%;
+}
+
+#middle>div {
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    grid-template-rows: repeat(1, auto);
+    gap: 50px;
+}
+
+span {
+    color: goldenrod;
+}
+
+.container1>div>li>a ,#middletwo>div>li>a {
+    color: white;
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+#emailsearch{
+    height: 40%;
+    width: 50%;
+    background-color: black;
+    border-top: 1px;
+    border-left: 1px;
+    border-right: 1px;
+    border-bottom-color: goldenrod;
+}
+
+button {
+    height: 90%;
+    width: auto;
+    justify-content: center;
+    background-color: goldenrod;
+    color: black;
+}
+
+:hover>button {
+    background-color: green;
+    color: yellowgreen;
+}
+
+hr {
+    width: 90%;
+}
+
+#middletwo {
+    width: 100%;
+    height: auto;
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    grid-template-rows: repeat(1, auto);
+    gap: 10px;
+}
+
+#middletwo>div {
+    padding: 5% 20% 5% 20%;
+}
+
+h2 {
+    color: rgb(111, 111, 172)
+}
+
+#Bottom {
+    color: white;
+    padding-top: 2%;
+    padding-left: 5%;
+    padding-right: 15%;
+    padding-bottom: 20%;
+}
+
+@media all and (min-width:100px) and (max-width:450px) {
+    #photo {
+        grid-template-columns: repeat(1, 1fr);
+
+    }
+
+    #middle>div {
+
+        grid-template-columns: repeat(1, auto);
+
+    }
+
+    #middletwo {
+        grid-template-columns: repeat(2, auto);
+    }
+}
+
+@media all and (min-width:450px) and (max-width:850px) {
+    #photo {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+
+    #middle>div {
+
+        grid-template-columns: repeat(2, auto);
+
+    }
+
+    #middletwo {
+        grid-template-columns: repeat(3, auto);
+    }
+}
