@@ -1,15 +1,14 @@
 # bewakoof.github.io
 
+<img src="https://images.bewakoof.com/web/ic-desktop-normal-bwkf-logo.svg" width="600" height="200">
 
-<img src="https://images.ctfassets.net/5de70he6op10/53ZOE4rRqrxcvv0hg2eSLV/a849085e5f600c618132be2475017746/anthro-logo.svg" width="600" height="200">
 
+## Bewakoof-Clone
 
-## Anthropologie-Clone
+Bewakoof.com
 
-Anthropologie.com
-
-## About Anthropologie:
-Anthropologie is a website which sells women clothings and home furnitures.
+## About Bewakoof:
+Bewakoof is an Online Shopping site for Men and Women Clothing. Shop from a wide range of T-shirts, Mobile Covers, Accessories and more at the best prices.
 
 ## Demo:
 
@@ -18,30 +17,30 @@ https://user-images.githubusercontent.com/76251822/184294757-f7738622-d241-4c26-
 ## Installation and Run Locally
 Install-project with git
 ```
-$ git clone https://github.com/venkycoder422/Anthropologie.git
+$ git clone https://github.com/venkycoder422/bewakoof.github.io.git
 ```
 ### `npm i`
 
-### `npm start`
+### `npm run server`
 
 ## Features
-- API request handling using mock server
-- Login, Sign Up with redux
-- Sort and pagination functionalities
-- Cart, product description, checkout page
+- Sign Up ,Login, Cart page
+- Flex and grid display of clothing pages
+- Sort and filter functionalities
+- Quick accessing by hover effect
+- Responsive website
 
 ## Acknowledgements
-- [anthropologie.com](https://www.anthropologie.com/)
+- [bewakoof.com](https://www.bewakoof.com/)
 - [Masai School](https://www.masaischool.com/)
 
 ## Authors
 
 - [Venkatesulu](https://github.com/venkycoder422)
-- [Chinni](https://github.com/Chinni-Chinni)
-- [mdehtesham](https://github.com/mdehteshamcoder)
-- [Meenu Katariya](https://github.com/MeenuKatariya)
+- [Gaurav](https://github.com/gauravsft)
+- [Vishal K Vyas](https://github.com/vkvyass)
+- [Pawan Kumar](https://github.com/pawangithub752000)
 ## Tech Stacks
-- React js
-- Redux
-- Mock Server
-- Css
+- HTML
+- CSS
+- JAVA SCRIP
