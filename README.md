@@ -43,4 +43,4 @@ $ git clone https://github.com/venkycoder422/bewakoof.github.io.git
 ## Tech Stacks
 - HTML
 - CSS
-- JAVA SCRIP
+- JAVA SCRIPT
