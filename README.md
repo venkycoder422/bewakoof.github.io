@@ -22,7 +22,7 @@ Bewakoof.com
 ## About Bewakoof:
 Bewakoof is an Online Shopping site for Men and Women Clothing. Shop from a wide range of T-shirts, Mobile Covers, Accessories and more at the best prices.
 
-## [Demo Link:-](https://venkycoder422.github.io/bewakoof.github.io/){:target="_blank"}
+## [Demo Link:-](https://venkycoder422.github.io/bewakoof.github.io/)
 
 https://user-images.githubusercontent.com/76251822/184327180-cec9a52c-83b9-4f3f-8d7c-0eeb106f18cd.mp4
 
