@@ -24,7 +24,7 @@ Bewakoof is an Online Shopping site for Men and Women Clothing. Shop from a wide
 
 ## [Demo Link:-](https://venkycoder422.github.io/bewakoof.github.io/)
 
-https://user-images.githubusercontent.com/76251822/184327180-cec9a52c-83b9-4f3f-8d7c-0eeb106f18cd.mp4
+https://user-images.githubusercontent.com/76251822/184327180-cec9a52c-83b9-4f3f-8d7c-0eeb106f18cd.gif
 
 ## Installation and Run Locally
 Install-project with git
